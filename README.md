@@ -17,8 +17,8 @@ Using the slicing concept rotate the list
 ## Program:
 ```
 #Program to circulate N values.
-#Developed by: 
-#RegisterNumber:
+#Developed by: Naveeenkanthan L
+#RegisterNumber:23007705
 def circulate():
         a=eval(input())
         b=int(input())
